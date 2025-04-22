@@ -47,7 +47,7 @@ ainda ira conter algumas funcionalidades extras como:
 - agendamentos medicos.
 
 
-# integrantes 
+# Integrantes 
 
 - Matheus Fabiano Barbosa Aguiar
 
